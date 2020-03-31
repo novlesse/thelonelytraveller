@@ -1,13 +1,11 @@
 <br>
-<center>
-
-# The Lonely Traveller
-
-By: Jeffrey Lau
-
-![PhotoCred: Patrick Hendry @ Unsplash](https://images.unsplash.com/photo-1584552539793-65d73b802130?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80)
-
-</center>
+<p align="center">
+    <h1 align="center">The Lonely Traveller</h1>
+    <p align="center"><i>A travelling blog written with Python.</i></p>
+    <p align="center">By: Jeffrey Lau</p>
+    <img src="https://images.unsplash.com/photo-1584552539793-65d73b802130?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80">
+    </p>
+</p>
 <br>
 
 ## Introduction

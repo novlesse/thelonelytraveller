@@ -16,7 +16,13 @@ This blog platform was created for myself to write about my travels. I wanted a 
 
 #### Virtual Environment:
 
+#### Enable:
+
 > source env/bin/activate
+
+#### Disable:
+
+> deactivate
 
 #### Install:
 
